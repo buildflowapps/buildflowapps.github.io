@@ -1,1 +1,10 @@
-google.com, pub-2792435342296032, DIRECT, f08c47fec0942fa0
+<h2>Spades Elite</h2>
+<p>Welcome to our official page</p>
+
+<a href="https://spadeselite.my.canva.site" target="_blank">
+  Visit Full Website
+</a>
+
+<a href="https://spadeselite.my.canva.site/contact" target="_blank">
+  Contact Support
+</a>
